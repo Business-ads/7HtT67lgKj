@@ -1,20 +1,19 @@
 {
-    "name": "TRZ3dLwDemoruUC",
-    "theme": "syntax",
-    "version": "0.0.0",
-    "description": "ส(ล็)อต 888",
-    "keywords": [
-        "ส(ล็)อต xo",
-        "sc(g9)",
-        "s(lot)xo",
-        "แจก เคร(ดิต)ต",
-        "ส(ล็)อต 66",
-        "{6}"
-
-],
-"repository": "https://github.com/Business-ads/7HtT67lgKj.git",
-"license": "MIT",
-"engines": {
+  "name": "เคร(ดิต) ฟรี โบ(นัส) ฟรี โบ(นัส) ฟรี",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ส(ล็)อต 888",
+  "keywords": [
+    "ส(ล็)อต xo",
+    "sc(g9)",
+    "s(lot)xo",
+    "แจก เคร(ดิต)ต",
+    "ส(ล็)อต 66",
+    "{6}"
+  ],
+  "repository": "https://github.com/Business-ads/7HtT67lgKj.git",
+  "license": "MIT",
+  "engines": {
     "atom": ">=1.0.0 <2.0.0"
-    }
+  }
 }
